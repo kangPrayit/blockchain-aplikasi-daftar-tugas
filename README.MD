@@ -14,18 +14,17 @@
   <summary>Daftar Isi</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Tentang Projek</a>
+      <a href="#tentang-projek">Tentang Projek</a>
     </li>
     <li>
-      <a href="#getting-started">Untuk Memulai</a>
+      <a href="#untuk-memulai">Untuk Memulai</a>
       <ul>
-        <li><a href="#prerequisites">Perangkat Lunak</a></li>
-        <li><a href="#installation">Instalasi</a></li>
+        <li><a href="#perangkat-lunak">Perangkat Lunak</a></li>
+        <li><a href="#instalasi">Instalasi</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Penggunaan</a></li>
-    <li><a href="#license">Lisensi</a></li>
-    <li><a href="#contact">Kontak</a></li>
+    <li><a href="#penggunaan">Penggunaan</a></li>
+    <li><a href="#kontak">Kontak</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
