@@ -34,7 +34,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Tentang Projek
 Salah satu aplikasi pada praktikum Aplikasi pada buku pengantar teknologi blockchain: aplikasi terdistribusi. Aplikasi sederhana ini dapat menyimpan daftar tugas sederhana pada Ethereum blockchain.
-<img src="images/screenshot.png" alt="screenshot" width="800" height="600">
+<img src="images/screenshot.gif" alt="screenshot" width="800" height="600">
 
 
 <!-- GETTING STARTED -->
