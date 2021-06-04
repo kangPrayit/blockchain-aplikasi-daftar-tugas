@@ -62,7 +62,12 @@ Pada saat pembuatan aplikasi ini, digunakan beberapa perangkat lunak dengan spes
    ```sh
    npm install
    ```
-4. Jalankan aplikasi menggunakan perintah:
+4. Jalankan aplikasi Ganache
+5. Migrasi Smart Contract ke lokal Ethereum Blockchain:
+   ```JS
+   truffle migrate --refresh
+   ```
+6. Jalankan aplikasi menggunakan perintah:
    ```JS
    npm run dev
    ```
